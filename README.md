@@ -1,7 +1,7 @@
 DATA201/422 Data Wrangling Project. 
 
 Team Members:
-- Anibal Bofill
+- Anibal Fabres Bofill
 - Oliver Howorth
 - Sohiththarun Ramamoorthy
 - Ankit Jangid
